@@ -386,7 +386,7 @@ const AboutMe = () => {
         <div className="flex-1 bg-gray-900 flex flex-col">
           {/* Tab Bar com gradiente */}
           <div className="bg-gradient-to-r from-gray-800 to-gray-750 border-b border-gray-700 flex items-center shadow-lg">
-            {openTabs.map((tab, index) => (
+            {openTabs.map((tab,) => (
               <div
                 key={tab}
                 onClick={() => setSelectedFile(tab)}
