@@ -16,7 +16,7 @@ const Contact = () => {
   const toggleFolder = (folder: string) => {
     setExpandedFolders(prev => ({
       ...prev,
-      [folder]: !prev[folder]
+      [folder]: !prev
     }));
   };
 

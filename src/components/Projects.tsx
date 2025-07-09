@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ChevronDown, ChevronRight, Folder, ExternalLink, Github } from 'lucide-react';
+import { ChevronDown, ChevronRight, Folder, ExternalLink} from 'lucide-react';
 
 const Projects = () => {
   const [expandedFolders, setExpandedFolders] = useState({
@@ -19,7 +19,7 @@ const Projects = () => {
   const toggleFolder = (folder: string) => {
     setExpandedFolders(prev => ({
       ...prev,
-      [folder]: !prev[folder]
+      [folder]: prev
     }));
   };
 
