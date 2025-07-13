@@ -144,6 +144,7 @@ const AboutMe = () => {
 * 🌐 Encontre-me também em:
 * - GitHub: @DevJoseMatheus
 * - Twitter: @DevJosematheus
+* - Instagram: @DevJoseMatheus
 */`
 };
 
