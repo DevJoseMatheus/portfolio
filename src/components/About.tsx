@@ -4,16 +4,16 @@ import { ChevronDown, ChevronRight, Folder, File, Mail, Phone, X, Code, GitBranc
 const AboutMe = () => {
   const [expandedFolders, setExpandedFolders] = useState({
     'personal-info': true,
-    'bio': false,
+    'bio': true,
     'interests': true,
     'education': true,
-    'highschool': false,
-    'university': false,
+    'highschool': true,
+    'university': true,
     'contacts': true
   });
 
-  const [selectedFile, setSelectedFile] = useState('bio');
-  const [openTabs, setOpenTabs] = useState(['bio']);
+  const [selectedFile, setSelectedFile] = useState('email');
+  const [openTabs, setOpenTabs] = useState(['email']);
   const [typingText, setTypingText] = useState('');
   const [currentLine, setCurrentLine] = useState(1);
 
