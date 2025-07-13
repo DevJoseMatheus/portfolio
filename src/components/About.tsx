@@ -120,8 +120,7 @@ const AboutMe = () => {
     email: `/**
 * 📧 Contato por e-mail
 *
-* Principal: josematheus3105@outlook.com
-* Comercial: dev.josematheus@gmail.com
+* Principal: dev.josematheus@gmail.com
 *
 * 📱 Tempo de resposta: Geralmente em até 24 horas
 * 🌍 Fuso horário: Brasília (BRT)
@@ -144,7 +143,7 @@ const AboutMe = () => {
 *
 * 🌐 Encontre-me também em:
 * - GitHub: @DevJoseMatheus
-* - Twitter: @matheus31042002
+* - Twitter: @DevJosematheus
 */`
 };
 

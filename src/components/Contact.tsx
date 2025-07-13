@@ -56,12 +56,17 @@ const Contact = () => {
     {
       icon: <ExternalLink size={16} className="text-gray-400" />,
       label: 'Instagram',
-      url: 'https://www.instagram.com/ujosematheus/'
+      url: 'https://www.instagram.com/devjosematheus/'
     },
     {
       icon: <ExternalLink size={16} className="text-gray-400" />,
       label: 'Twitter',
-      url: 'https://x.com/matheus31042002'
+      url: 'https://x.com/DevJosematheus'
+    },
+    {
+      icon: <ExternalLink size={16} className='text-gray-400'/>,
+      label: 'Reddit',
+      url: 'https://www.reddit.com/user/Jolly_Maize9382/'
     }
   ];
 
