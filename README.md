@@ -1,4 +1,4 @@
-# 🧬 Hacker Portfolio — José_Matheus_Dev
+# 🧬 Hacker Portfolio — José Matheus
 
 Um portfólio em estilo **cyberpunk/hacker**, com estética futurista, efeitos de neon verde, animações de terminal e uma interface totalmente personalizada, projetada para impressionar visualmente e apresentar suas habilidades de forma única.
 
