@@ -115,7 +115,7 @@ npm run dev
 
 ## 🧑‍💻 **Autor**
 
-**José_Matheus_Dev**
+**José Matheus**
 
 > "Penetrando sistemas, construindo soluções, quebrando barreiras."
 
@@ -124,7 +124,3 @@ npm run dev
 ## 📜 **Licença**
 
 Este projeto está sob a licença MIT. Sinta‑se livre para modificar e melhorar.
-
----
-
-Se quiser, posso também criar **versão em inglês**, **versão mais profissional**, ou **versão mais hacker e agressiva**.
